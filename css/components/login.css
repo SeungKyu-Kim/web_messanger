@@ -28,7 +28,7 @@ input:focus {
 
 .login input[type="submit"] {
     background-color: var(--yellow);
-    cursor: progress;
+    cursor: pointer;
     padding: 20px 0px;
     border-radius: 5px;
 }
